@@ -1,7 +1,7 @@
 # Image Processing with Pillow Library
 
 This repository contains Python code examples that demonstrate various image processing operations using the Pillow library.
-
+Important link: https://pillow.readthedocs.io/en/stable/handbook/index.html
 ## Examples
 
 1. **Convert a JPEG image to WebP:**
